@@ -44,6 +44,6 @@ As máquinas virtuais (VM) do Azure podem ser criadas por meio do Portal do Azur
 
   7. Deixe os padrões restantes e, em seguida, selecione o botão Examinar + criar na parte inferior da página.
 
-  8 Após a execução da validação, selecione o botão Criar na parte inferior da página. 
+  8. Após a execução da validação, selecione o botão Criar na parte inferior da página. 
 
-  9 Após a conclusão da implantação, selecione Ir para o recurso.
+  9. Após a conclusão da implantação, selecione Ir para o recurso.
